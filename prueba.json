@@ -1,0 +1,465 @@
+[
+  {
+    "IsRecentlyVerified": false,
+    "ID": 70955,
+    "UUID": "7F12946B-094C-48A3-AFB2-5C003201E7C0",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 71301,
+      "Title": "Parking Juan XXIII",
+      "AddressLine1": "Plaza Alférez Provisional",
+      "Town": "Orense",
+      "StateOrProvince": "Orense",
+      "Postcode": "32003",
+      "CountryID": 210,
+      "Latitude": 42.3397568,
+      "Longitude": -7.86643950000007,
+      "ContactTelephone1": "+34 88 374 700",
+      "Distance": 0.29627955381438353,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 101664,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      },
+      {
+        "ID": 101665,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 230,
+        "PowerKW": 3.6,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 3,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2016-08-21T18:41:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2016-08-21T18:40:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 61122,
+    "UUID": "DA27C800-3EC7-4C84-BC2B-329A17AA6E2F",
+    "DataProviderID": 27,
+    "DataProvidersReference": "6",
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 61468,
+      "Title": "Estación de Autobuses de Ourense",
+      "AddressLine1": "Estación de Autobuses de Orense",
+      "Town": "Ourense",
+      "StateOrProvince": "Galicia",
+      "Postcode": "32001",
+      "CountryID": 210,
+      "Latitude": 42.352392,
+      "Longitude": -7.879235,
+      "Distance": 1.3591048763993845,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 77748,
+        "ConnectionTypeID": 28
+      },
+      {
+        "ID": 77749,
+        "ConnectionTypeID": 28
+      }
+    ],
+    "StatusTypeID": 0,
+    "DateLastStatusUpdate": "2016-02-13T00:24:00Z",
+    "DataQualityLevel": 3,
+    "DateCreated": "2016-02-13T00:24:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 97231,
+    "UUID": "F063E056-DF33-45E2-95EE-A2CE8874CE22",
+    "DataProviderID": 1,
+    "OperatorID": 1,
+    "UsageTypeID": 7,
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 97577,
+      "Title": "Carrefour Parking",
+      "AddressLine1": "Rúa Dos Emigrantes, 1",
+      "Town": "Barbadás",
+      "StateOrProvince": "Ourense",
+      "Postcode": "32002",
+      "CountryID": 210,
+      "Latitude": 42.3214914,
+      "Longitude": -7.87692200000004,
+      "ContactTelephone1": "988388900",
+      "AccessComments": "Open weekdays according to the mall schedule. There are several signs for the charging point in the parking lot of the shopping center - have to ask for authorization to use the space. They give you a card that will work with any centres that have the same type of charging point.",
+      "RelatedURL": "http://www.carrefour.com/",
+      "Distance": 1.391892221747152,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 138080,
+        "ConnectionTypeID": 25,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 12.8,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      },
+      {
+        "ID": 138081,
+        "ConnectionTypeID": 28,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.36,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "The space is only available to clients of the mall, you have to ask for authorization. Mall service line: 988388900. Free parking, free charging. Cannot reserve.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2018-01-22T08:46:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-01-12T10:12:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": true,
+    "DateLastVerified": "2021-03-14T18:05:00Z",
+    "ID": 174098,
+    "UUID": "03125B28-CEEF-4CF1-B0AE-23BC3C6E8FF6",
+    "DataProviderID": 1,
+    "OperatorID": 3279,
+    "UsageTypeID": 1,
+    "UsageCost": "0",
+    "AddressInfo": {
+      "ID": 174457,
+      "Title": "Leroy Merlin",
+      "AddressLine1": "Quintela",
+      "Town": "Ourense",
+      "StateOrProvince": "Ourense",
+      "CountryID": 210,
+      "Latitude": 42.354551592928374,
+      "Longitude": -7.905645964713699,
+      "AccessComments": "Free",
+      "RelatedURL": "http://www.leroymerlin.es",
+      "Distance": 2.5442208047629697,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 268854,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 400,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 5
+      }
+    ],
+    "NumberOfPoints": 5,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2021-03-14T23:34:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2021-03-14T18:05:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 61120,
+    "UUID": "5B59811E-C81F-447C-9597-D0B9D676EB6F",
+    "DataProviderID": 27,
+    "DataProvidersReference": "7",
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 61466,
+      "Title": "Tecnópole Laddes",
+      "AddressLine1": "Rúa Ourense 53B",
+      "Town": "San Cibrao das Viñas",
+      "StateOrProvince": "San Cibrao das Viñas",
+      "Postcode": "32911",
+      "CountryID": 210,
+      "Latitude": 42.296064,
+      "Longitude": -7.800463,
+      "RelatedURL": "http://www.tecnopole.es/",
+      "Distance": 4.242315004502204,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 77741,
+        "ConnectionTypeID": 28
+      },
+      {
+        "ID": 77742,
+        "ConnectionTypeID": 28
+      },
+      {
+        "ID": 77743,
+        "ConnectionTypeID": 28
+      }
+    ],
+    "StatusTypeID": 0,
+    "DateLastStatusUpdate": "2016-02-13T00:24:00Z",
+    "DataQualityLevel": 3,
+    "DateCreated": "2016-02-13T00:24:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 106782,
+    "UUID": "425C4EE2-8A9D-46CC-ABF9-C533C0CA4696",
+    "DataProviderID": 1,
+    "OperatorID": 45,
+    "UsageTypeID": 1,
+    "UsageCost": "Free",
+    "AddressInfo": {
+      "ID": 107128,
+      "Title": "Ben Comun Espazo",
+      "AddressLine1": "Praza Torre Lombarda",
+      "Town": "Allariz",
+      "StateOrProvince": "Ourense, Galicia",
+      "Postcode": "32660",
+      "CountryID": 210,
+      "Latitude": 42.1879301,
+      "Longitude": -7.8040453,
+      "ContactTelephone1": "988680892",
+      "ContactEmail": "info@bencomun.gal",
+      "RelatedURL": "http://bencomun.gal/",
+      "Distance": 10.769118820622522,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 150519,
+        "ConnectionTypeID": 25,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 7.3,
+        "CurrentTypeID": 10,
+        "Quantity": 1
+      },
+      {
+        "ID": 150520,
+        "ConnectionTypeID": 28,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 16,
+        "Voltage": 230,
+        "PowerKW": 3.6,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 2,
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2018-07-04T21:19:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2018-06-30T14:13:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 85725,
+    "UUID": "92F71B6A-2E8C-4C8E-9D1F-B03F40130006",
+    "DataProviderID": 1,
+    "OperatorID": 23,
+    "OperatorsReference": "26658",
+    "UsageTypeID": 6,
+    "AddressInfo": {
+      "ID": 86071,
+      "Title": "Rectoral de Ansemil",
+      "AddressLine1": "SN Lamas de Ansemil",
+      "Town": "Celanova",
+      "Postcode": "32817",
+      "CountryID": 210,
+      "Latitude": 42.136144,
+      "Longitude": -7.94025,
+      "ContactTelephone1": "+34 6877 75726",
+      "Distance": 14.518198906187324,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 121866,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "Amps": 32,
+        "Voltage": 230,
+        "PowerKW": 14,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "1 Tesla Connector, up to 14kW.Available for patrons only. Please see front desk.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2020-08-17T12:17:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2017-04-13T05:46:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 164004,
+    "UUID": "A1DB7EAA-121A-424F-8E58-9DAF03FE1E90",
+    "DataProviderID": 1,
+    "OperatorID": 23,
+    "OperatorsReference": "42502",
+    "UsageTypeID": 4,
+    "AddressInfo": {
+      "ID": 164363,
+      "Title": "Casa Da Feira - Turismo Rural",
+      "AddressLine1": "Lugar Da Portaxe",
+      "Town": "9",
+      "StateOrProvince": "Lobios",
+      "Postcode": "32879",
+      "CountryID": 210,
+      "Latitude": 41.909257,
+      "Longitude": -8.074,
+      "ContactTelephone1": "+34 988 448 138",
+      "Distance": 31.564866353110435,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 235602,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 17,
+        "CurrentTypeID": 20,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "GeneralComments": "1 Tesla Connector, up to 17kW.Available for customers. Please see front desk.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2020-08-24T23:56:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-08-24T23:56:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 149540,
+    "UUID": "7D67D937-002F-45A7-A98A-744DF3270F08",
+    "DataProviderID": 1,
+    "OperatorID": 3371,
+    "UsageTypeID": 1,
+    "AddressInfo": {
+      "ID": 149893,
+      "Title": "Mi Rinconcito (Wenea)",
+      "AddressLine1": "N-532",
+      "AddressLine2": "Queizás",
+      "Town": "Ourense",
+      "StateOrProvince": "Ourense",
+      "Postcode": "32698",
+      "CountryID": 210,
+      "Latitude": 41.91114238065029,
+      "Longitude": -7.442906424784724,
+      "Distance": 36.458194725249456,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 207622,
+        "ConnectionTypeID": 2,
+        "StatusTypeID": 150,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 207623,
+        "ConnectionTypeID": 33,
+        "StatusTypeID": 150,
+        "LevelID": 3,
+        "PowerKW": 50,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      },
+      {
+        "ID": 207624,
+        "ConnectionTypeID": 1036,
+        "StatusTypeID": 150,
+        "LevelID": 3,
+        "Amps": 63,
+        "Voltage": 400,
+        "PowerKW": 43,
+        "CurrentTypeID": 30,
+        "Quantity": 1
+      }
+    ],
+    "NumberOfPoints": 1,
+    "StatusTypeID": 150,
+    "DateLastStatusUpdate": "2020-02-28T08:01:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-02-27T23:42:00Z",
+    "SubmissionStatusTypeID": 200
+  },
+  {
+    "IsRecentlyVerified": false,
+    "ID": 163866,
+    "UUID": "3D1DCD05-754B-44B4-AF27-2E85F268F058",
+    "DataProviderID": 1,
+    "OperatorID": 23,
+    "OperatorsReference": "39456",
+    "UsageTypeID": 4,
+    "AddressInfo": {
+      "ID": 164225,
+      "Title": "Termas de Cuntis",
+      "AddressLine1": "Rua Do Balneario",
+      "Town": "1",
+      "StateOrProvince": "Cuntis",
+      "Postcode": "36670",
+      "CountryID": 210,
+      "Latitude": 42.633333,
+      "Longitude": -8.563889,
+      "ContactTelephone1": "+34 986 532 525",
+      "Distance": 41.2155290412689,
+      "DistanceUnit": 2
+    },
+    "Connections": [
+      {
+        "ID": 235464,
+        "ConnectionTypeID": 30,
+        "StatusTypeID": 50,
+        "LevelID": 2,
+        "PowerKW": 22,
+        "CurrentTypeID": 20,
+        "Quantity": 2
+      }
+    ],
+    "NumberOfPoints": 2,
+    "GeneralComments": "2 Tesla Connectors, up to 22kW.Available for customers. Please see front desk.",
+    "StatusTypeID": 50,
+    "DateLastStatusUpdate": "2020-08-24T21:57:00Z",
+    "DataQualityLevel": 1,
+    "DateCreated": "2020-08-24T21:56:00Z",
+    "SubmissionStatusTypeID": 200
+  }
+]
