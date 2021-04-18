@@ -96,47 +96,6 @@
   },
   {
     "IsRecentlyVerified": false,
-    "ID": 61120,
-    "UUID": "5B59811E-C81F-447C-9597-D0B9D676EB6F",
-    "DataProviderID": 27,
-    "DataProvidersReference": "7",
-    "UsageTypeID": 1,
-    "AddressInfo": {
-      "ID": 61466,
-      "Title": "Tecnópole Laddes",
-      "AddressLine1": "Rúa Ourense 53B",
-      "Town": "San Cibrao das Viñas",
-      "StateOrProvince": "San Cibrao das Viñas",
-      "Postcode": "32911",
-      "CountryID": 210,
-      "Latitude": 42.296064,
-      "Longitude": -7.800463,
-      "RelatedURL": "http://www.tecnopole.es/",
-      "Distance": 4.242315004502204,
-      "DistanceUnit": 2
-    },
-    "Connections": [
-      {
-        "ID": 77741,
-        "ConnectionTypeID": 28
-      },
-      {
-        "ID": 77742,
-        "ConnectionTypeID": 28
-      },
-      {
-        "ID": 77743,
-        "ConnectionTypeID": 28
-      }
-    ],
-    "StatusTypeID": 0,
-    "DateLastStatusUpdate": "2016-02-13T00:24:00Z",
-    "DataQualityLevel": 3,
-    "DateCreated": "2016-02-13T00:24:00Z",
-    "SubmissionStatusTypeID": 200
-  },
-  {
-    "IsRecentlyVerified": false,
     "ID": 164004,
     "UUID": "A1DB7EAA-121A-424F-8E58-9DAF03FE1E90",
     "DataProviderID": 1,
